@@ -1,6 +1,9 @@
 ---
+import {getCollection } from "astro:content"; 
 // import MainLayout from "../../layouts/MainLayout.astro";
 import MainLayout from "@/layouts/MainLayout.astro";
+const posts =await getCollection("blog");
+console.log(posts)
 ---
 
 <MainLayout title="Bolg">

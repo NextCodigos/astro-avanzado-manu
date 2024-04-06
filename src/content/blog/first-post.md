@@ -1,3 +1,11 @@
+---
+title: "My firt Post"
+pubDate: "Jul 05 2022"
+heroImage: "https://generated.vusercontent.net/placeholder.svg"
+tags: ["AI","Dev"]
+---
+
 # Titulo principal
 
-lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, quae.
+lorem lorem lorem lorem 
+lorem lorem lorem lorem 
